@@ -120,8 +120,7 @@ One-tap Google Lens integration for object identification, text translation, and
   </a>
   <a href="https://github.com/AKS-Labs/Tulsi/releases/latest">
     <img alt='Get it on GitHub'
-         src='https://img.shields.io/badge/GitHub-Download%20APK-181717?style=for-the-badge&logo=github&logoColor=white'
-         height="80" />
+         src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" height="80px">
   </a>
 </p>
 
